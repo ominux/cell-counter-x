@@ -4,6 +4,9 @@ The `cell-counter-x` ImageJ plugin maintains all features of the original plugin
 * Which kind of marker is that number? Hovering markers shows the type in a tooltip-like overlay.
 * Custom mapping: changing the mapping of a number to a meaningful literal in an editor let's you keep track of the semantics of each marker
 
+
+![Cell Counter X v1.2](/doc/screenshots/ccx_screen.png)
+
 ##Build and Install
 ###Build using Maven
 ```bash
